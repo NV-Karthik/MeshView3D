@@ -24,7 +24,11 @@ This project is intended for:
 
 The viewer renders generated meshes directly in a 3D window. Example results from the repository are shown below:
 
+Example Output 1 - Structured Cylindrical Mesh
+
 ![Structured cylindrical mesh](res/Structured_cyl_mesh.png)
+
+Example Output 2 - Unstructured Cylindrical Mesh
 
 ![Unstructured cylindrical mesh](res/Unstructured_cyl_mesh.png)
 
